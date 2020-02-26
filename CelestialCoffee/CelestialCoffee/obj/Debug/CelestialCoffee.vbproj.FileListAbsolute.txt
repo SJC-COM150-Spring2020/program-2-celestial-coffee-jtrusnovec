@@ -1,0 +1,11 @@
+F:\jtrusnovec\projects\CelestialCoffee\CelestialCoffee\bin\Debug\CelestialCoffee.exe.config
+F:\jtrusnovec\projects\CelestialCoffee\CelestialCoffee\bin\Debug\CelestialCoffee.exe
+F:\jtrusnovec\projects\CelestialCoffee\CelestialCoffee\bin\Debug\CelestialCoffee.pdb
+F:\jtrusnovec\projects\CelestialCoffee\CelestialCoffee\bin\Debug\CelestialCoffee.xml
+F:\jtrusnovec\projects\CelestialCoffee\CelestialCoffee\obj\Debug\CelestialCoffee.vbprojResolveAssemblyReference.cache
+F:\jtrusnovec\projects\CelestialCoffee\CelestialCoffee\obj\Debug\CelestialCoffee.CelestialCoffee.resources
+F:\jtrusnovec\projects\CelestialCoffee\CelestialCoffee\obj\Debug\CelestialCoffee.Resources.resources
+F:\jtrusnovec\projects\CelestialCoffee\CelestialCoffee\obj\Debug\CelestialCoffee.vbproj.GenerateResource.Cache
+F:\jtrusnovec\projects\CelestialCoffee\CelestialCoffee\obj\Debug\CelestialCoffee.exe
+F:\jtrusnovec\projects\CelestialCoffee\CelestialCoffee\obj\Debug\CelestialCoffee.xml
+F:\jtrusnovec\projects\CelestialCoffee\CelestialCoffee\obj\Debug\CelestialCoffee.pdb
