@@ -9,3 +9,14 @@ F:\jtrusnovec\projects\CelestialCoffee\CelestialCoffee\obj\Debug\CelestialCoffee
 F:\jtrusnovec\projects\CelestialCoffee\CelestialCoffee\obj\Debug\CelestialCoffee.exe
 F:\jtrusnovec\projects\CelestialCoffee\CelestialCoffee\obj\Debug\CelestialCoffee.xml
 F:\jtrusnovec\projects\CelestialCoffee\CelestialCoffee\obj\Debug\CelestialCoffee.pdb
+E:\jtrusnovec\projects\CelestialCoffee\CelestialCoffee\bin\Debug\CelestialCoffee.exe.config
+E:\jtrusnovec\projects\CelestialCoffee\CelestialCoffee\obj\Debug\CelestialCoffee.exe
+E:\jtrusnovec\projects\CelestialCoffee\CelestialCoffee\obj\Debug\CelestialCoffee.xml
+E:\jtrusnovec\projects\CelestialCoffee\CelestialCoffee\obj\Debug\CelestialCoffee.pdb
+E:\jtrusnovec\projects\CelestialCoffee\CelestialCoffee\bin\Debug\CelestialCoffee.exe
+E:\jtrusnovec\projects\CelestialCoffee\CelestialCoffee\bin\Debug\CelestialCoffee.pdb
+E:\jtrusnovec\projects\CelestialCoffee\CelestialCoffee\bin\Debug\CelestialCoffee.xml
+E:\jtrusnovec\projects\CelestialCoffee\CelestialCoffee\obj\Debug\CelestialCoffee.vbprojResolveAssemblyReference.cache
+E:\jtrusnovec\projects\CelestialCoffee\CelestialCoffee\obj\Debug\CelestialCoffee.CelestialCoffee.resources
+E:\jtrusnovec\projects\CelestialCoffee\CelestialCoffee\obj\Debug\CelestialCoffee.Resources.resources
+E:\jtrusnovec\projects\CelestialCoffee\CelestialCoffee\obj\Debug\CelestialCoffee.vbproj.GenerateResource.Cache
